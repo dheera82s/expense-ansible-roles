@@ -1,4 +1,2 @@
 BACKEND_HOST: backend.dheera82s.online 
 
-APP_LOCAION: /usr/share/nginx/html
-COMPONENT: frontend
