@@ -1,2 +1,3 @@
-BACKEND_HOST: backend.dheera82s.online 
+#mysql_root_password: ExpenseApp@1
 
+mysql_host: mysql.dheera82s.online 
